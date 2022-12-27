@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   // twitter: '',
   github: 'deblur99',
-  linkedin: '한현민',
+  // linkedin: '한현민',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
